@@ -1,0 +1,4 @@
+2024-05-26 23:32:56.084 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 447.9561 ms
+2024-05-26 23:32:57.891 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 150.3774 ms
+2024-05-26 23:33:04.139 -03:00 [INF] Requesting Investiments...
+2024-05-26 23:33:05.878 -03:00 [INF] HTTP GET /api/Portifolio responded 200 in 4666.0220 ms

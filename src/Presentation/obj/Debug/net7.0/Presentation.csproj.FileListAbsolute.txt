@@ -1,0 +1,24 @@
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\bin\Debug\net7.0\Presentation.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\bin\Debug\net7.0\Presentation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\bin\Debug\net7.0\Presentation.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\Presentation.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Presentation\obj\Debug\net7.0\ref\Presentation.dll
+C:\Temp\Git\TestSimpleAPI\src\Presentation\bin\Debug\net7.0\Presentation.deps.json
+C:\Temp\Git\TestSimpleAPI\src\Presentation\bin\Debug\net7.0\Presentation.dll
+C:\Temp\Git\TestSimpleAPI\src\Presentation\bin\Debug\net7.0\Presentation.pdb
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.dll
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\Presentation.pdb
+C:\Temp\Git\TestSimpleAPI\src\Presentation\obj\Debug\net7.0\ref\Presentation.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1YC7d7yczLgl/HXw/BffR0WI1V/dirGzNWHQdUfvfxYtxtgy/sMO60EUwTajT2Yj4UByoxxFSIPX8oKnYXKJg==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\Git\\TestSimpleAPI\\src\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrunoRenanGuizeBusqu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

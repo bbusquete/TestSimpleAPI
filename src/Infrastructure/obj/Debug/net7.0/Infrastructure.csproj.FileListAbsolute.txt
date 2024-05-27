@@ -1,0 +1,26 @@
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Temp\Git\TestSimpleAPI\src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

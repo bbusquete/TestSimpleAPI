@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DomainEvents\**" />
+    <Compile Remove="Exceptions\**" />
+    <Compile Remove="Repositories\**" />
+    <Compile Remove="Shared\**" />
+    <Compile Remove="ValueObjects\**" />
+    <EmbeddedResource Remove="DomainEvents\**" />
+    <EmbeddedResource Remove="Exceptions\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <EmbeddedResource Remove="Shared\**" />
+    <EmbeddedResource Remove="ValueObjects\**" />
+    <None Remove="DomainEvents\**" />
+    <None Remove="Exceptions\**" />
+    <None Remove="Repositories\**" />
+    <None Remove="Shared\**" />
+    <None Remove="ValueObjects\**" />
+  </ItemGroup>
+
+</Project>

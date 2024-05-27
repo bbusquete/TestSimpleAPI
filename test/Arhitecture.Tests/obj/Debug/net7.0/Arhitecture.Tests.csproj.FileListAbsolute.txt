@@ -1,0 +1,354 @@
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping_Arhitecture.Tests
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\testhost.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\testhost.exe
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.runtimeconfig.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\MediatR.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Mdb.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Pdb.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Rocks.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\NetArchTest.Rules.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.core.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Application.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Presentation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Application.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Domain.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Presentation.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.CopyComplete
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\refint\Arhitecture.Tests.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.genruntimeconfig.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\obj\Debug\net7.0\ref\Arhitecture.Tests.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Practices.Unity.Tracking.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\NPoco.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\NPoco.SqlServer.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\PetaPoco.NetCore.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Polly.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Pomelo.Data.MySql.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping_Arhitecture.Tests
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\testhost.exe
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\testhost.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.deps.json
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.runtimeconfig.json
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Arhitecture.Tests.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Azure.Core.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Azure.Identity.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\FluentValidation.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\MediatR.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Practices.Unity.Tracking.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Mdb.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Pdb.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.Rocks.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Mono.Cecil.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\NetArchTest.Rules.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\NPoco.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\NPoco.SqlServer.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\PetaPoco.NetCore.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Polly.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Pomelo.Data.MySql.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.assert.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.core.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Application.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Domain.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Presentation.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Application.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Domain.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\bin\Debug\net7.0\Presentation.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.AssemblyReference.cache
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.AssemblyInfoInputs.cache
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.AssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.CoreCompileInputs.cache
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.csproj.CopyComplete
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\refint\Arhitecture.Tests.dll
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.pdb
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\Arhitecture.Tests.genruntimeconfig.cache
+C:\Temp\Git\TestSimpleAPI\test\Arhitecture.Tests\obj\Debug\net7.0\ref\Arhitecture.Tests.dll

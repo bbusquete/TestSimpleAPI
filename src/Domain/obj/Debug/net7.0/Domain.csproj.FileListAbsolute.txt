@@ -1,0 +1,24 @@
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Temp\Git\TestSimpleAPI\src\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Temp\Git\TestSimpleAPI\src\Domain\bin\Debug\net7.0\Domain.dll
+C:\Temp\Git\TestSimpleAPI\src\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.dll
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Temp\Git\TestSimpleAPI\src\Domain\obj\Debug\net7.0\ref\Domain.dll

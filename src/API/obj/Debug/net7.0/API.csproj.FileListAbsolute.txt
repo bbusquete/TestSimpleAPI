@@ -1,0 +1,351 @@
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\appsettings.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\API.exe
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\API.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\API.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\MediatR.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Practices.Unity.Tracking.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\NPoco.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\NPoco.SqlServer.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\PetaPoco.NetCore.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Polly.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Pomelo.Data.MySql.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Application.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Application.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Domain.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\refint\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\appsettings.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\API.exe
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\API.deps.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\API.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\API.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\MediatR.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Practices.Unity.Tracking.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\NPoco.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\NPoco.SqlServer.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\PetaPoco.NetCore.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Polly.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Pomelo.Data.MySql.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Application.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Domain.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Application.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Domain.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\BrunoRenanGuizeBusqu\Downloads\clean-api-template-main (1)\clean-api-template-main\src\API\obj\Debug\net7.0\ref\API.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\appsettings.json
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\API.exe
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\API.deps.json
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\API.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\API.pdb
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\MediatR.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Practices.Unity.Tracking.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\NPoco.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\NPoco.SqlServer.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\PetaPoco.NetCore.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Polly.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Pomelo.Data.MySql.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Application.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Domain.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Application.pdb
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Domain.pdb
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Temp\Git\TestSimpleAPI\src\API\bin\Debug\net7.0\Infrastructure.dll.config
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.dll
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\refint\API.dll
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.pdb
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Temp\Git\TestSimpleAPI\src\API\obj\Debug\net7.0\ref\API.dll
