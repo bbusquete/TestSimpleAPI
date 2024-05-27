@@ -45,9 +45,9 @@ These tests examine if the connection with database it's working good
 
 
 ## How Start Application
-### 1) Set "API" as Startup Project
-### 2) Configure the ConnectionString at appsettings.json
-### 3) Execute the script Infrastructure/CreateTables.sql in the same database configured
+ 1) Set "API" as Startup Project
+ 2) Configure the ConnectionString at appsettings.json
+ 3) Execute the script Infrastructure/CreateTables.sql in the same database configured
 
 
 
